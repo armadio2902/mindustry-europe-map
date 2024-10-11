@@ -3,7 +3,7 @@
 > [!WARNING]  
 > Work In Progress.
 
-Map preview: (not always up-to-date)
+Map preview:
 ![map](preview.png)
 
 # Roadmap 
