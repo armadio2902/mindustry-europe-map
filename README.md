@@ -9,5 +9,6 @@ Map preview:
 # Roadmap 
 - [x] Convert Europe map image to Mindustry Map
 - [ ] Fix image conversion artifacts 
-- [ ] Add Major Cities
 - [ ] Draw country borders
+- [ ] Add Major Cities
+
