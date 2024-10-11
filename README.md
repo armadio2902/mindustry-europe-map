@@ -1,5 +1,7 @@
-# mindustry-europe-map
-[Work in Progress] Mindustry map of Europe
+# Mindustry Europe Map
+
+> [!WARNING]  
+> Work In Progress.
 
 Map preview: (not always up-to-date)
 ![map](preview.png)
