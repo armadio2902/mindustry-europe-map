@@ -8,7 +8,7 @@ Map preview (doesn't update immediately, click to see the latest map preview):
 
 # Roadmap 
 - [x] Convert Europe map image to Mindustry Map
-- [ ] Fix image conversion artifacts 
+- [x] Fix image conversion artifacts 
 - [ ] Draw country borders
 - [ ] Add Major Cities
 
