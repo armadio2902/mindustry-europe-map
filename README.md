@@ -9,7 +9,7 @@ Map preview (doesn't update immediately, click to see the latest map preview):
 # Roadmap 
 - [x] Convert Europe map image to Mindustry Map
 - [x] Fix image conversion artifacts 
-- [ ] Draw country borders
+- [x] Draw country borders
 - [ ] Add Major Cities
 - [ ] Add natural oil based on real world data
 
