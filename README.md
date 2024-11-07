@@ -11,5 +11,6 @@ Map preview (doesn't update immediately, click to see the latest map preview):
 - [x] Fix image conversion artifacts 
 - [x] Draw country borders
 - [ ] Add Major Cities
+- [ ] Redraw major rivers
 - [ ] Add natural oil based on real world data
 
